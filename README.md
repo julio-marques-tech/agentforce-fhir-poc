@@ -6,7 +6,7 @@
 
 ## 📋 Descrição
 
-Esta POC implementa um **motor de validação multicamada** para mensagens FHIR R4 trocadas entre software de fabricante e os sistemas centrais da SPMS (PNB/BDNR). O objetivo é permitir que equipas técnicas validem os seus payloads FHIR antes de integrarem com os ambientes reais.
+Esta POC implementa um **motor de validação multicamada** para mensagens FHIR R4 trocadas entre software de fabricante e os sistemas centrais da SPMS. O objetivo é permitir que equipas técnicas validem os seus payloads FHIR antes de integrarem com os ambientes reais.
 
 A plataforma combina:
 - **Validação estrutural** via HL7 FHIR Validator (`.jar`)
